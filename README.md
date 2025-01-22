@@ -1,4 +1,4 @@
-## Hi, my name Kieran <a href="[https://www.linkedin.com/in/kieran-pinnock-810090323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]">IT Professional</a>☺</h1>
+## Hi, my name Kieran I'm a <a href="[https://www.linkedin.com/in/kieran-pinnock-810090323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
