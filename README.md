@@ -1,4 +1,4 @@
-## Hi my name is Kieran, I'm a <a href="https://linkedin.com/in/Kieran-Pinnock">IT Professional</a>☺</h1>
+## Hi my name is Kieran, I'm a <a href="https://linkedin.com/in/Kieran-Pinnock">IT Professional</a>🙂</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
