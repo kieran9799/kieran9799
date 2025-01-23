@@ -12,6 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Kieran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kieran-Pinnock | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://www.linkedin.com/in/kieran-pinnock-810090323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+[linkedin]: https://linkedin.com/in/Kieran-Pinnock
